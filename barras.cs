@@ -17,7 +17,7 @@ namespace carl
                             SetCursorPosition(2,2);
                            ForegroundColor= ConsoleColor.White;
                               BackgroundColor= ConsoleColor.DarkCyan;
-                           Write("│");//para que no se corra el programa al maximizar modificado para git
+                           Write("│");//para que no se corra el programa al maximizar modificado para git linea 19
 
                             Console.Out.Flush();
 
